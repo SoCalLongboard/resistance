@@ -2,6 +2,8 @@
 
 A reference table of resistance band (tubular, handle/clip style) exercises for the major upper body muscle groups, organized by push/pull direction, with a suggested Monday/Wednesday/Friday training split and links to demonstration guides for each exercise.
 
+https://apps.michaelnaumann.com/resistance/
+
 ## Development
 
 ```
